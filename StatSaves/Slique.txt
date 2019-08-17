@@ -1,2 +1,35 @@
-<!DOCTYPE html><html><head><title>404 - Page not found</title> <meta charset="UTF-8"/><meta name="viewport" content="width=device-width, initial-scale=1" /><style>body, html{margin: 0; padding: 0; height: 100%; overflow: hidden;}#content{position:absolute; left: 0; right: 0; bottom: 0; top: 0px;}.error-frame{height: 100%;width: 100%;border: 0;}</style></head><body><div id="content"><iframe class="error-frame" src="https://www.runescape.com/error404"></iframe></div><script src="//ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script><script type="text/javascript" src="https://www.runescape.com/js/rs3/plugins-7.js"></script><script src="https://www.runescape.com/js/rs3/gtm-0.js"></script></body></html>
+9470,1999,133353260
+20424,86,3675090
+18473,85,3530205
+19058,96,9689544
+12253,98,12909653
+6276,99,14317511
+13309,77,1478769
+10900,95,8868552
+12628,89,5317304
+9108,87,3993767
+11071,85,3553756
+18223,86,3889571
+11818,99,13095018
+5706,93,7377244
+26637,70,794376
+12564,82,2421257
+7933,87,4280094
+16270,80,1986637
+27135,78,1664631
+12812,91,6382018
+2095,99,15461400
+15221,65,493697
+5442,90,5672387
+9820,82,2500779
+-1,-1
+-1,-1
+-1,-1
+10263,352
+14389,7
+42770,14
+18825,62
+4167,237
+7226,25
+4822,7
 
