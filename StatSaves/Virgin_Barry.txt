@@ -1,66 +1,36 @@
-<!doctype html>
-    <html class='no-js' lang='en'>
-    <head>
-        <meta charset='UTF-8'>
-        <title>Error - RuneScape | Old School RuneScape</title>
-        <meta name='viewport' content='width=device-width, initial-scale=1'>
-        <meta name='description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
-        <meta name='author' content='Jagex'>
-        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-        <link rel='stylesheet' href='https://www.runescape.com/css/c/responsive/dual/vendor-128.css' />
-        <link rel='stylesheet' href='https://www.runescape.com/css/c/responsive/dual/site-128.css' />
-        <meta name='format-detection' content='telephone=no' />
-        <meta name='theme-color' content='#1C2C34' />
-        <meta name='msapplication-navbutton-color' content='#1C2C34'>
-        <meta name='apple-mobile-web-app-capable' content='yes'>
-        <meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
-        <link rel='apple-touch-icon' sizes='57x57' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-57.png' />
-        <link rel='apple-touch-icon' sizes='60x60' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-60.png' />
-        <link rel='apple-touch-icon' sizes='72x72' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-72.png' />
-        <link rel='apple-touch-icon' sizes='76x76' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-76.png' />
-        <link rel='apple-touch-icon' sizes='114x114' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-114.png' />
-        <link rel='apple-touch-icon' sizes='120x120' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-120.png' />
-        <link rel='apple-touch-icon' sizes='144x144' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-144.png' />
-        <link rel='apple-touch-icon' sizes='152x152' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-152.png' />
-        <link rel='apple-touch-icon' sizes='180x180' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-180.png' />
-        <link rel='icon' type='image/png' sizes='192x192' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-192.png' />
-        <link rel='icon' type='image/png' sizes='32x32' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-32.png' />
-        <link rel='icon' type='image/png' sizes='96x96' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-96.png' />
-        <link rel='icon' type='image/png' sizes='16x16' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-16.png' />
-        <meta name='msapplication-TileColor' content='#ffffff' />
-        <meta name='msapplication-TileImage' content='https://www.runescape.com/img/responsive/runescape/icons/runescape-144.png' />
-        <meta property='og:title' content='Error - RuneScape | Old School RuneScape'>
-        <meta property='og:site_name' content='RuneScape'>
-        <meta property='og:image' content='https://www.runescape.com/img/responsive/runescape/social-share/social-share-fb.jpg?1'>
-        <meta property='og:url' content='https://www.runescape.com/error500'>
-        <meta property='og:description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
-        <meta name='twitter:domain' content='RuneScape.com'>
-        <meta name='twitter:url' content='https://www.runescape.com/error500'>
-        <meta name='twitter:title' content='Error - RuneScape | Old School RuneScape'>
-        <meta name='twitter:description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
-        <meta name='twitter:image:src' content='https://www.runescape.com/img/responsive/runescape/social-share/social-share-fb.jpg?1'>
-        <meta name='twitter:site' content='@RuneScape'>
-        <meta name='google-site-verification' content='pUwl5KYHKSZ6tbbgsR2wYNv1kbVmsYral3iFmijHTWM' />
-        <link rel='manifest' href='https://www.runescape.com/manifest.json' />
-    </head>
-    <body class=' p-error-vista' id='p-error-vista'>
-        <main class='l-vista l-vista--size-narrow l-vista--state-error' data-value='500'>
-            <div class='l-vista__central'>
-                <div class='l-vista__container ' id='l-vista__container'>
-                    <div class='l-vista__logo'>
-                        <a href='https://oldschool.runescape.com/' id='os-logo-home' class='a-logo' target='_top' data-test='product-logo-os'>
-                            <img src='https://www.runescape.com/img/responsive/common/logos/oldschool.png' alt="Old School RuneScape Logo" title="Old School RuneScape" data-test='product-logo-img-os' />
-                        </a>
-                        <a href='https://www.runescape.com/' id='rs-logo-home' class='a-logo' target='_top' data-test='product-logo-rs'>
-                            <img src='https://www.runescape.com/img/responsive/common/logos/runescape.png' alt=" RuneScape Logo" title=" RuneScape" data-test='product-logo-img-rs' />
-                        </a>
-                    </div>
-                                            <p class='l-vista__copy'>Oops, something went wrong.</p>
-                                            <p class='l-vista__copy'>Please try again later.</p>
-                    <a class='a-button a-button--size-full' href='https://www.runescape.com/' target='_parent'>Back to Homepage</a>
-                </div>
-            </div>
-        </main>
-    </body>
-</html>
+50593,1551,18519077
+46856,75,1210451
+59081,70,738925
+53818,78,1698662
+54138,77,1625371
+53386,75,1272984
+48711,60,290101
+56067,73,1019672
+78512,68,611419
+99569,64,433406
+96451,58,232613
+96687,67,560691
+90156,80,2053041
+46970,70,766590
+44709,62,355125
+95263,60,274051
+42923,63,386426
+109523,60,288176
+63753,60,283862
+48509,70,783576
+23745,82,2605392
+34431,55,183982
+55834,69,670877
+43229,55,173684
+-1,-1
+-1,-1
+-1,-1
+40459,78
+34865,4
+25318,26
+38324,24
+38067,24
+-1,-1
+-1,-1
+-1,-1
 
