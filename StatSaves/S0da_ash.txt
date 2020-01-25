@@ -1,79 +1,66 @@
-21679,1875,80355619
-29662,81,2354534
-27400,81,2330367
-26726,94,8374866
-26355,93,7592384
-17134,93,7351883
-15079,77,1547287
-24715,89,5002435
-30240,82,2632381
-52349,73,1028100
-30040,77,1507588
-41661,81,2319048
-39653,97,10731001
-21086,85,3583471
-19308,75,1293372
-32409,75,1313041
-18966,82,2439698
-35234,75,1212782
-41053,73,1030648
-25808,87,4149505
-8258,96,10140493
-22111,64,412604
-43761,74,1135246
-22637,71,872885
--1,-1
--1,-1
--1,-1
-14440,310
-4207,31
-10776,61
-18559,76
-14756,121
-10860,19
-12839,2
--1,-1
--1,-1
--1,-1
-20232,257
-8333,1
--1,-1
--1,-1
-12442,2
--1,-1
-14715,1
-15770,1
-7873,5
--1,-1
-13652,38
-14995,9
-21333,58
--1,-1
--1,-1
--1,-1
-9131,5
-6656,10
-5369,65
-12374,1
-12673,5
-17814,82
--1,-1
-5587,109
--1,-1
--1,-1
-1953,44
-6513,3
-12229,15
--1,-1
--1,-1
--1,-1
--1,-1
--1,-1
-1462,13
--1,-1
--1,-1
-3992,100
-21186,510
-6047,37
-13420,131
+<!doctype html>
+    <html class='no-js' lang='en'>
+    <head>
+        <meta charset='UTF-8'>
+        <title>Error - RuneScape | Old School RuneScape</title>
+        <meta name='viewport' content='width=device-width, initial-scale=1'>
+        <meta name='description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
+        <meta name='author' content='Jagex'>
+        <meta http-equiv='X-UA-Compatible' content='IE=edge'>
+        <link rel='stylesheet' href='https://www.runescape.com/css/c/responsive/dual/vendor-128.css' />
+        <link rel='stylesheet' href='https://www.runescape.com/css/c/responsive/dual/site-128.css' />
+        <meta name='format-detection' content='telephone=no' />
+        <meta name='theme-color' content='#1C2C34' />
+        <meta name='msapplication-navbutton-color' content='#1C2C34'>
+        <meta name='apple-mobile-web-app-capable' content='yes'>
+        <meta name='apple-mobile-web-app-status-bar-style' content='black-translucent'>
+        <link rel='apple-touch-icon' sizes='57x57' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-57.png' />
+        <link rel='apple-touch-icon' sizes='60x60' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-60.png' />
+        <link rel='apple-touch-icon' sizes='72x72' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-72.png' />
+        <link rel='apple-touch-icon' sizes='76x76' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-76.png' />
+        <link rel='apple-touch-icon' sizes='114x114' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-114.png' />
+        <link rel='apple-touch-icon' sizes='120x120' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-120.png' />
+        <link rel='apple-touch-icon' sizes='144x144' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-144.png' />
+        <link rel='apple-touch-icon' sizes='152x152' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-152.png' />
+        <link rel='apple-touch-icon' sizes='180x180' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-180.png' />
+        <link rel='icon' type='image/png' sizes='192x192' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-192.png' />
+        <link rel='icon' type='image/png' sizes='32x32' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-32.png' />
+        <link rel='icon' type='image/png' sizes='96x96' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-96.png' />
+        <link rel='icon' type='image/png' sizes='16x16' href='https://www.runescape.com/img/responsive/runescape/icons/runescape-16.png' />
+        <meta name='msapplication-TileColor' content='#ffffff' />
+        <meta name='msapplication-TileImage' content='https://www.runescape.com/img/responsive/runescape/icons/runescape-144.png' />
+        <meta property='og:title' content='Error - RuneScape | Old School RuneScape'>
+        <meta property='og:site_name' content='RuneScape'>
+        <meta property='og:image' content='https://www.runescape.com/img/responsive/runescape/social-share/social-share-fb.jpg?1'>
+        <meta property='og:url' content='https://www.runescape.com/error502'>
+        <meta property='og:description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
+        <meta name='twitter:domain' content='RuneScape.com'>
+        <meta name='twitter:url' content='https://www.runescape.com/error502'>
+        <meta name='twitter:title' content='Error - RuneScape | Old School RuneScape'>
+        <meta name='twitter:description' content='Sign up to RuneScape today and access more than 150 incredible story arcs, new skills, play 20 awesome minigames, construct your own amazing home, and more.'>
+        <meta name='twitter:image:src' content='https://www.runescape.com/img/responsive/runescape/social-share/social-share-fb.jpg?1'>
+        <meta name='twitter:site' content='@RuneScape'>
+        <meta name='google-site-verification' content='pUwl5KYHKSZ6tbbgsR2wYNv1kbVmsYral3iFmijHTWM' />
+        <link rel='manifest' href='https://www.runescape.com/manifest.json' />
+    </head>
+    <body class=' p-error-vista' id='p-error-vista'>
+        <main class='l-vista l-vista--size-narrow l-vista--state-error' data-value='502'>
+            <div class='l-vista__central'>
+                <div class='l-vista__container ' id='l-vista__container'>
+                    <div class='l-vista__logo'>
+                        <a href='https://oldschool.runescape.com/' id='os-logo-home' class='a-logo' target='_top' data-test='product-logo-os'>
+                            <img src='https://www.runescape.com/img/responsive/common/logos/oldschool.png' alt="Old School RuneScape Logo" title="Old School RuneScape" data-test='product-logo-img-os' />
+                        </a>
+                        <a href='https://www.runescape.com/' id='rs-logo-home' class='a-logo' target='_top' data-test='product-logo-rs'>
+                            <img src='https://www.runescape.com/img/responsive/common/logos/runescape.png' alt=" RuneScape Logo" title=" RuneScape" data-test='product-logo-img-rs' />
+                        </a>
+                    </div>
+                                            <p class='l-vista__copy'>Oops, something went wrong.</p>
+                                            <p class='l-vista__copy'>Please try again later.</p>
+                    <a class='a-button a-button--size-full' href='https://www.runescape.com/' target='_parent'>Back to Homepage</a>
+                </div>
+            </div>
+        </main>
+    </body>
+</html>
 
